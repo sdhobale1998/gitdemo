@@ -8,4 +8,4 @@ public with sharing class AccountController {
         Account[] accList = [Select ID from Account];
       }
     }
-  }
+}
